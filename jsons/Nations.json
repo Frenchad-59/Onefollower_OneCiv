@@ -4,7 +4,7 @@
 		"leaderName": "Charles the Bold",
 		"adjective": ["Burgundian"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "From the splendour of the Dukes of Burgundy to the fertile lands of this illustrious region, the Burgundians rose to build a grandiose future.",
 		"startIntroPart2": "Fertile lands and skilful diplomatic ties are the hallmarks of the Burgundians, a civilisation that seeks to flourish through culture and alliances in the complex world of Unciv.",
@@ -29,7 +29,7 @@
 		"outerColor": [220,178,83],
 		"innerColor": [107,13,13],
 		"uniqueName": "Burgundy know-how",
-		"uniques": ["+1 Gold, +1 Culture from every [Wine]", "[+3 Gold, +3 Culture] [in all cities] <before the [Renaissance era]>"],
+		"uniques": ["+1 Gold, +1 Culture from every [Wine]", "[+2 Gold, +2 Culture] [in all cities] <before the [Renaissance era]>"],
 		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
 			"Autun","Cluny","Tournus","Semur-en-Auxois","Avallon","Nuits-Saint-Georges","Montbard","Tonnerre","Joigny","Châtillon-sur-Seine",
 			"Saulieu","Louhans","Givry","Paray-le-Monial","Bourbon-Lancy","Vézelay","Pommard","Le Creusot","Verdun-sur-le-Doubs","Couches",
@@ -39,7 +39,7 @@
 		"name": "Flanders",
 		"leaderName": "Baudouin the Good",
 		"adjective": ["Flemish"],
-		"startBias": ["Grassland", "Coast"],
+		"startBias": ["Grassland", "Coast", "Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "From rich fertile plains to flourishing ports, Flanders emerges as a cultural and economic crossroads at the heart of Unciv. Immerse yourself in an era of artistic and commercial prosperity, where every work of art and every diplomatic agreement shapes your heritage.",
