@@ -1,24 +1,23 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Burgundy",
+		"leaderName": "Charles the Bold",
+		"adjective": ["Burgundian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "From the splendour of the Dukes of Burgundy to the fertile lands of this illustrious region, the Burgundians rose to build a grandiose future.",
+		"startIntroPart2": "Fertile lands and skilful diplomatic ties are the hallmarks of the Burgundians, a civilisation that seeks to flourish through culture and alliances in the complex world of Unciv.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "With determination and pride in our Burgundian roots, we are forced to declare war to protect our interests and preserve our sovereignty.",
+		"attacked": "We regret that the diplomatic route did not prevail, but we will resolutely defend our land and our people.",
+		"defeated": "The Burgundians, though defeated, still proudly bear the burden of their history and will seek to rise like a phoenix from the ashes.",
+		"introduction": "Greetings, potential friends. The people of Burgundy are reaching out in a spirit of cooperation and mutual exchange. May we establish fruitful relations for the good of our peoples.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
@@ -27,12 +26,48 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"outerColor": [107,13,13],
+		"innerColor": [220,178,83],
+		"uniqueName": "Burgundy know-how",
+		"uniques": ["[+2 Gold , +2 Culture] for every [Wine]", "[+5 Culture, +5 Gold] <before the [Renaissance era]>"],
+		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
+			"Autun","Cluny","Tournus","Semur-en-Auxois","Avallon","Nuits-Saint-Georges","Montbard","Tonnerre","Joigny","Châtillon-sur-Seine",
+			"Saulieu","Louhans","Givry","Paray-le-Monial","Bourbon-Lancy","Vézelay","Pommard","Le Creusot","Verdun-sur-le-Doubs","Couches",
+			"Lons-le-Saunier","Chagny","Cosne-Cours-sur-Loire","La Charité-sur-Loire","Montceau-les-Mines","Château-Chinon"]
+	},
+		{
+		"name": "Flanders",
+		"leaderName": "Baudouin the Good",
+		"adjective": ["Flemish"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "From rich fertile plains to flourishing ports, Flanders emerges as a cultural and economic crossroads at the heart of Unciv. Immerse yourself in an era of artistic and commercial prosperity, where every work of art and every diplomatic agreement shapes your heritage.",
+		"startIntroPart2": "From thriving trading cities to artistic masterpieces that light up the horizon, Flanders opens the doors to an era of cultural brilliance. As a centre of trade and crafts, you have the chance to shape an unforgettable civilisation in the world of Unciv.",
+		
+		"declaringWar": "For Flanders and its greatness, we are writing our destiny through conquest and perseverance.",
+		"attacked": "Our swords are raised, our honour is at stake. Flanders defends its soil with pride and determination.",
+		"defeated": "Despite our valiant fight, defeat is a bitter pill to swallow, but we will learn from our mistakes and grow stronger.",
+		"introduction": "Greetings, potential friends. The people of Flanders welcome you with an open mind and mutual interest.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Together, we are sealing a lasting peace agreement, putting an end to the conflicts that have overshadowed our lands. May we move forward into an era of mutual cooperation and prosperity.",
+		"tradeRequest": "I'm offering you a fruitful trade, where our riches will mingle in a profitable union for both of us.",
+
+		"outerColor": [24,41,69],
+		"innerColor": [230,184,34],
+		"uniqueName": "Flemish Trade",
+		"uniques": ["[+2 Gold, +2 Production] from [From all cities connected to capital]"],
+		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
+			"Ostende","Alost","Bruxelles ","Mons","Dunkerque ","Douai ","Saint-Omer","Audenarde","Roulers","Courtrai",
+			"Bergues ","Lys-lez-Lannoy","Orchies","Armentières","Béthune","Valenciennes","Audruicq","Saint-Winoc","Cassel","Thourout"]
+	},
 ]
