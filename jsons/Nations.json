@@ -29,7 +29,7 @@
 		"outerColor": [107,13,13],
 		"innerColor": [220,178,83],
 		"uniqueName": "Burgundy know-how",
-		"uniques": ["[+2 Gold , +2 Culture] for every [Wine]", "[+5 Culture, +5 Gold] <before the [Renaissance era]>"],
+		"uniques": ["+2 Gold, +2 Culture from every [Wine]", "[+5 Gold, +5 Culture] [in all cities] <before the [Renaissance era]>"],
 		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
 			"Autun","Cluny","Tournus","Semur-en-Auxois","Avallon","Nuits-Saint-Georges","Montbard","Tonnerre","Joigny","Châtillon-sur-Seine",
 			"Saulieu","Louhans","Givry","Paray-le-Monial","Bourbon-Lancy","Vézelay","Pommard","Le Creusot","Verdun-sur-le-Doubs","Couches",
@@ -65,7 +65,7 @@
 		"outerColor": [24,41,69],
 		"innerColor": [230,184,34],
 		"uniqueName": "Flemish Trade",
-		"uniques": ["[+2 Gold, +2 Production] from [From all cities connected to capital]"],
+		"uniques": ["[+2 Production, +2 Gold] [in all cities connected to capital]"],
 		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
 			"Ostende","Alost","Bruxelles ","Mons","Dunkerque ","Douai ","Saint-Omer","Audenarde","Roulers","Courtrai",
 			"Bergues ","Lys-lez-Lannoy","Orchies","Armentières","Béthune","Valenciennes","Audruicq","Saint-Winoc","Cassel","Thourout"]
