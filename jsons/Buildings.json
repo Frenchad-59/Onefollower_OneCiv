@@ -23,4 +23,24 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
+	{
+		"name": "Sacred Menhir",
+		"replaces": "Shrine",
+		"uniqueTo": "Brttany",
+		"faith": 2,
+		"cost": 30,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Tide Mill",
+		"uniqueTo": "Brttany",
+		"maintenance": 4,
+		"food": 3,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [Coast]"],
+		"requiredTech": "Engineering"
+	},
 ]
