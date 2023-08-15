@@ -52,4 +52,20 @@
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
 	},
+	{
+		"name": "Mist Forest Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Nervii",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 10,
+		"cost": 45,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Invisible to non-adjacent units"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 ]
