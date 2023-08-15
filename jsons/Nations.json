@@ -26,8 +26,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [107,13,13],
-		"innerColor": [220,178,83],
+		"outerColor": [220,178,83],
+		"innerColor": [107,13,13],
 		"uniqueName": "Burgundy know-how",
 		"uniques": ["+2 Gold, +2 Culture from every [Wine]", "[+5 Gold, +5 Culture] [in all cities] <before the [Renaissance era]>"],
 		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
@@ -62,8 +62,8 @@
 		"afterPeace": "Together, we are sealing a lasting peace agreement, putting an end to the conflicts that have overshadowed our lands. May we move forward into an era of mutual cooperation and prosperity.",
 		"tradeRequest": "I'm offering you a fruitful trade, where our riches will mingle in a profitable union for both of us.",
 
-		"outerColor": [24,41,69],
-		"innerColor": [230,184,34],
+		"outerColor": [230,184,34],
+		"innerColor": [24,41,69],
 		"uniqueName": "Flemish Trade",
 		"uniques": ["[+2 Production, +2 Gold] [in all cities connected to capital]"],
 		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
