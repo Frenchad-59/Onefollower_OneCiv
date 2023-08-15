@@ -11,5 +11,16 @@
 			"[+1 Food] from [Wheat] tiles [in this city]",
 			"[+3 Food] from [Wine] tiles [in this city]"]
 		"requiredTech": "Pottery"
-	}
+	},
+	{
+		"name": "Flemish Bourse",
+		"replaces": "Bank",
+		"uniqueTo": "Flanders",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 35},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 ]
