@@ -29,7 +29,7 @@
 		"outerColor": [220,178,83],
 		"innerColor": [107,13,13],
 		"uniqueName": "Burgundy know-how",
-		"uniques": ["+1 Gold, +1 Culture from every [Wine]", "[+2 Gold, +2 Culture] [in all cities] <before the [Renaissance era]>"],
+		"uniques": ["+1 Gold, +1 Culture from every [Wine]", "[+1 Gold, +1 Culture] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>"],
 		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
 			"Autun","Cluny","Tournus","Semur-en-Auxois","Avallon","Nuits-Saint-Georges","Montbard","Tonnerre","Joigny","Châtillon-sur-Seine",
 			"Saulieu","Louhans","Givry","Paray-le-Monial","Bourbon-Lancy","Vézelay","Pommard","Le Creusot","Verdun-sur-le-Doubs","Couches",
@@ -104,5 +104,39 @@
 		"cities": ["Nantes","Rennes","Brest","Vannes","Quimper","Saint-Malo","Lorient","Rennes ","Lannion",
 			"Morlaix","Pontivy","Auray","Redon","Concarneau","Dinan","Saint-Brieuc","Loudéac","Lannion","Vitré",
 			"Fougères ","Guingamp","Douarnenez","Ploërmel","Lamballe","Châteaubriant","Quimperlé","Saint-Pol-de-Léon","Carhaix-Plouguer","Saint-Nazaire"]
-	}
+	},
+		{
+		"name": "Nervii",
+		"leaderName": "Boduognatos",
+		"adjective": ["Nervians"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "From the shadows of the deep forests, the Nervians emerge as fearless warriors, ready to defend their ancestral homeland. Driven by an indomitable spirit, we are ready to forge our destiny with spear and shield.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "The echoes of our ancestors resound within us. By the voice of the horn, we announce the battle, and let our enemies know of our fierce determination.",
+		"attacked": "War is our heritage, but the forest is also home to wisdom. If you want battle, we'll respond with the strength of the Nervians.",
+		"defeated": "Like the wind slipping through the leaves, our cause has been erased. We withdraw, not defeated, but ready to rise again.",
+		"introduction": "Nature speaks through our veins, and the sound of the forest guides us. As Nerviens, we salute you, dear neighbour.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "We are temporarily laying down our arms, but you should know that the Nervian people never bend. May we find common ground in the shadows of the forest.",
+		"tradeRequest": "Let's propose an exchange that mutually benefits our tribes. Our wealth and expertise will combine like the elements of nature.",
+
+		"outerColor": [184,134,11],
+		"innerColor": [37,73,43],
+		"uniqueName": "Forest tribe",
+		"uniques": ["[+10]% Strength <within [2] tiles of a [Forest]>"],
+		"cities": ["Bagacum","Atuatuca","Camaria","Viroviacum","Nemetocenna","Ratae","Turnacum","Uirovallum","Cathaletum",
+			"Nagnatium","Aduatuca Tungrorum","Sabis"]
+	},
 ]
