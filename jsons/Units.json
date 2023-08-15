@@ -23,5 +23,19 @@
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 3
+	},
+	{
+		"name": "Flemish Militia",
+		"unitType": "Sword",
+		"uniqueTo": "Flanders",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 60,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
 ]
