@@ -29,7 +29,7 @@
 		"outerColor": [220,178,83],
 		"innerColor": [107,13,13],
 		"uniqueName": "Burgundy know-how",
-		"uniques": ["+1 Gold, +1 Culture from every [Wine]", "[+1 Gold, +1 Culture] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>"],
+		"uniques": ["[+1 Gold, +1 Culture] from every [Wine]", "[+1 Gold, +1 Culture] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>"],
 		"cities": ["Dijon","Lyon","Chovex","Beaune","Chalon-sur-Saône","Auxerre","Mâcon","Nevers","Sens",
 			"Autun","Cluny","Tournus","Semur-en-Auxois","Avallon","Nuits-Saint-Georges","Montbard","Tonnerre","Joigny","Châtillon-sur-Seine",
 			"Saulieu","Louhans","Givry","Paray-le-Monial","Bourbon-Lancy","Vézelay","Pommard","Le Creusot","Verdun-sur-le-Doubs","Couches",
