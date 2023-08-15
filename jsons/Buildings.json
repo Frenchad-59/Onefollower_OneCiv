@@ -40,7 +40,7 @@
 		"food": 3,
 		"production": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Must be on [Coast]"],
+		"uniques": ["Must be next to [Coast]"],
 		"requiredTech": "Engineering"
 	},
 ]
