@@ -67,7 +67,42 @@
 		"uniqueName": "Flemish Trade",
 		"uniques": ["[+1 Production, +1 Gold] [in all cities connected to capital]"],
 		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
-			"Ostende","Alost","Bruxelles ","Mons","Dunkerque ","Douai ","Saint-Omer","Audenarde","Roulers","Courtrai",
+			"Ostende","Alost","Bruxelles","Mons","Dunkerque","Douai","Saint-Omer","Audenarde","Roulers","Courtrai",
 			"Bergues ","Lys-lez-Lannoy","Orchies","Armentières","Béthune","Valenciennes","Audruicq","Saint-Winoc","Cassel","Thourout"]
 	},
+		{
+		"name": "Brittany",
+		"leaderName": "Anne",
+		"adjective": ["Bretons"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "From the proud city of Nantes to the windswept coastline, the Duchy of Brittany emerges as a bastion of resilience and independence. Our tumultuous history and ancestral links with the sea will guide us towards a future shaped by diplomacy and the defence of our values.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "The winds of history are blowing us into action. May our blades and banners rise up against you to defend our duchy and its heritage.",
+		"attacked": "The noise of the waves does not drown out our determination. If you are looking for conflict, know that we will resist with the strength and spirit of Brittany.",
+		"defeated": "The battle may be lost, but the sea continues to dance under the Breton sky. We retreat to reunite and bounce back, like foam on the shore.",
+		"introduction": "Greetings, foreign people. The coasts of Brittany have welcomed many visitors over the centuries. May we share new horizons and new stories.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "We extend our open hand, accepting the end of hostilities. Let us hope that this treaty strengthens the peace between our lands.",
+		"tradeRequest": "Let's propose a fair exchange, where our riches will intertwine like waves on the shore.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [00,00,00],
+		"uniqueName": "Marine Spirit",
+		"uniques": ["+1 Food from every [Coast]"],
+		"cities": ["Nantes","Rennes","Brest","Vannes","Quimper","Saint-Malo","Lorient","Rennes ","Lannion",
+			"Morlaix","Pontivy","Auray","Redon","Concarneau","Dinan","Saint-Brieuc","Loudéac","Lannion","Vitré",
+			"Fougères ","Guingamp","Douarnenez","Ploërmel","Lamballe","Châteaubriant","Quimperlé","Saint-Pol-de-Léon","Carhaix-Plouguer","Saint-Nazaire"]
+	}
 ]
