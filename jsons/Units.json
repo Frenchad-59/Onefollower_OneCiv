@@ -48,7 +48,7 @@
 		"cost": 160,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider II"],
+		"promotions": ["Coastal Raider III"],
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
 	},
