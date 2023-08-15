@@ -26,7 +26,7 @@
 	{
 		"name": "Sacred Menhir",
 		"replaces": "Shrine",
-		"uniqueTo": "Brttany",
+		"uniqueTo": "Brittany",
 		"faith": 2,
 		"cost": 30,
 		"maintenance": 0,
@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Tide Mill",
-		"uniqueTo": "Brttany",
+		"uniqueTo": "Brittany",
 		"maintenance": 4,
 		"food": 3,
 		"production": 1,
