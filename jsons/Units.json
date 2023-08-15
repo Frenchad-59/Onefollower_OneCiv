@@ -37,5 +37,19 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Breton Privateer",
+		"unitType": "Melee Water",
+		"uniqueTo": "Brittany",
+		"replaces": "Privateer",
+		"movement": 6,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider II"],
+		"uniques": ["May capture killed [Water] units"],
+		"attackSound": "cannon"
+	},
 ]
