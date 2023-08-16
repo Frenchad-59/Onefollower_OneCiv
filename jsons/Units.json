@@ -84,4 +84,44 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	{
+		"name": "Voortrekker",
+		"unitType": "Civilian",
+		"uniqueTo": "Transvaal Republic",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+		"requiredTech": "Fertilizer",
+	},
+	{
+		"name": "Transvaal Commandos",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Transvaal Republic",
+		"replaces": "Rifleman",
+		"movement": 3,
+		"strength": 40,
+		"cost": 250,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["Drill II"]
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Krupp artillery",
+		"unitType": "Siege",
+		"uniqueTo": "Transvaal Republic",
+		"replaces": "Artillery",
+		"movement": 2,
+		"strength": 18,
+		"rangedStrength": 28,
+		"range": 3,
+		"cost": 290,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "artillery"
+	},
 ]
