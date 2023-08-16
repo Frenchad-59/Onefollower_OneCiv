@@ -85,7 +85,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Voortrekker",
+		"name": "Transvaalian Voortrekker",
 		"unitType": "Civilian",
 		"uniqueTo": "Transvaal Republic",
 		"movement": 4,
@@ -94,7 +94,7 @@
 		"requiredTech": "Fertilizer",
 	},
 	{
-		"name": "Voortrekker",
+		"name": "Natalian Voortrekker",
 		"unitType": "Civilian",
 		"uniqueTo": "Natalia Republic",
 		"movement": 4,
