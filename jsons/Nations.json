@@ -65,7 +65,7 @@
 		"outerColor": [230,184,34],
 		"innerColor": [24,41,69],
 		"uniqueName": "Flemish Trade",
-		"uniques": ["[+1 Production, +1 Gold] [in all cities connected to capital]"],
+		"uniques": ["[+2 Production, +2 Gold] [in all cities connected to capital]"],
 		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
 			"Ostende","Alost","Bruxelles","Mons","Dunkerque","Douai","Saint-Omer","Audenarde","Roulers","Courtrai",
 			"Bergues ","Lys-lez-Lannoy","Orchies","Armentières","Béthune","Valenciennes","Audruicq","Saint-Winoc","Cassel","Thourout"]
@@ -138,5 +138,40 @@
 		"uniques": ["[+10]% Strength <within [2] tiles of a [Forest]>"],
 		"cities": ["Bagacum","Atuatuca","Camaria","Viroviacum","Nemetocenna","Ratae","Turnacum","Uirovallum","Cathaletum",
 			"Nagnatium","Aduatuca Tungrorum","Sabis"]
+	},
+		{
+		"name": "Transvaal Republic",
+		"leaderName": "Andries Pretorius",
+		"adjective": ["Transvaalians"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The vast expanses of the Transvaal, cradle of the Boer resistance, remind us of our history of struggle and determination in the face of foreign forces.",
+		"startIntroPart2": "Fertile lands and skilful diplomatic ties are the hallmarks of the Burgundians, a civilisation that seeks to flourish through culture and alliances in the complex world of Unciv.",
+		
+		"declaringWar": "The sands of our homeland bear witness to our sacrifices, past and present. We will not shy away from the fight to protect our heritage.",
+		"attacked": "We have learned not to fear the challenges of this arid world. If you're looking for confrontation, we're ready for it.",
+		"defeated": "Our hearts remain attached to these lands, even in defeat. We will rise again, for the soul of the Transvaal cannot be broken.",
+		"introduction": "Greetings, strangers. We are the people of the Transvaal, bound together by a history of resistance and determination.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Peace, like an oasis in the heart of the desert, is a beacon of hope. Let us hope that our history of conflict can give way to more peaceful times.",
+		"tradeRequest": "The desert winds carry our words of trade. Accept this proposal for a partnership that can enrich our arid lands.",
+
+		"outerColor": [120,165,83],
+		"innerColor": [193,154,107],
+		"uniqueName": "Transvaal routes",
+		"uniques": ["[+1 Production, +1 Gold] [in all cities connected to capital]"],
+		"cities": ["Pretoria","Johannesburg","Bloemfontein","Pietersburg","Krugersdorp","Vereeniging","Witbank","Boksburg","Benoni",
+			"Germiston","Springs","Randburg","Vanderbijlpark","Roodepoort","Centurion","Kempton Park","Potchefstroom","Brits","Alberton",
+			"Midrand","Mamelodi","Klerksdorp","Secunda","Rustenburg","Nelspruit"]
 	},
 ]
