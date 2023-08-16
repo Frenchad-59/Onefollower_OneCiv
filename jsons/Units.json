@@ -94,6 +94,15 @@
 		"requiredTech": "Fertilizer",
 	},
 	{
+		"name": "Voortrekker",
+		"unitType": "Civilian",
+		"uniqueTo": "Natalia Republic",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+		"requiredTech": "Fertilizer",
+	},
+	{
 		"name": "Transvaal Commandos",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Transvaal Republic",
