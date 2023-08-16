@@ -87,7 +87,7 @@
 	{
 		"name": "Voortrekker",
 		"unitType": "Civilian",
-		"uniqueTo": "Transvaal Republic",
+		"uniqueTo": "Transvaal Republic","Natalia Republic",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
