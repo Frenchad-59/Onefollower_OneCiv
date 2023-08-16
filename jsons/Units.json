@@ -68,4 +68,20 @@
 			{"text": "This is your basic, club-swinging fighter."}
 		]
 	},
+	{
+		"name": "Nervian Equites",
+		"unitType": "Mounted",
+		"uniqueTo": "Nervii",
+		"replaces": "Horseman",
+		"movement": 5,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
