@@ -100,7 +100,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [00,00,00],
 		"uniqueName": "Marine Spirit",
-		"uniques": ["+1 Food from every [Coast]"],
+		"uniques": ["+1 Food from every [Coast]","+1 culture [in all cities] Must be next to [Coast]"],
 		"cities": ["Nantes","Rennes","Brest","Vannes","Quimper","Saint-Malo","Lorient","Rennes ","Lannion",
 			"Morlaix","Pontivy","Auray","Redon","Concarneau","Dinan","Saint-Brieuc","Loudéac","Lannion","Vitré",
 			"Fougères ","Guingamp","Douarnenez","Ploërmel","Lamballe","Châteaubriant","Quimperlé","Saint-Pol-de-Léon","Carhaix-Plouguer","Saint-Nazaire"]
@@ -147,7 +147,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The vast expanses of the Transvaal, cradle of the Boer resistance, remind us of our history of struggle and determination in the face of foreign forces.",
-		"startIntroPart2": "Fertile lands and skilful diplomatic ties are the hallmarks of the Burgundians, a civilisation that seeks to flourish through culture and alliances in the complex world of Unciv.",
+		"startIntroPart2": "",
 		
 		"declaringWar": "The sands of our homeland bear witness to our sacrifices, past and present. We will not shy away from the fight to protect our heritage.",
 		"attacked": "We have learned not to fear the challenges of this arid world. If you're looking for confrontation, we're ready for it.",
@@ -181,13 +181,13 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "The vast expanses of the Transvaal, cradle of the Boer resistance, remind us of our history of struggle and determination in the face of foreign forces.",
-		"startIntroPart2": "Fertile lands and skilful diplomatic ties are the hallmarks of the Burgundians, a civilisation that seeks to flourish through culture and alliances in the complex world of Unciv.",
+		"startIntroPart1": "From the subtropical coast to the fertile hinterland, the Republic of Natalia was born in the fever of the gold rush and the struggle for land. Our history is woven into the waves of the Indian Ocean and the green hills.",
+		"startIntroPart2": "",
 		
-		"declaringWar": "The sands of our homeland bear witness to our sacrifices, past and present. We will not shy away from the fight to protect our heritage.",
-		"attacked": "We have learned not to fear the challenges of this arid world. If you're looking for confrontation, we're ready for it.",
-		"defeated": "Our hearts remain attached to these lands, even in defeat. We will rise again, for the soul of the Transvaal cannot be broken.",
-		"introduction": "Greetings, strangers. We are the people of the Transvaal, bound together by a history of resistance and determination.",
+		"declaringWar": "The warm winds of our homeland carry the echo of our history of resistance. We are ready to defend our lands against any threat.",
+		"attacked": "Past conflicts have forged our determination. If you choose the path of war, be prepared to face our determination.",
+		"defeated": "Our deep roots in this tropical land remain unshakeable, even in defeat. We will rise again to continue shaping our destiny.",
+		"introduction": "Greetings, strangers. As the Republic of Natalia, we are a people who draw our strength from the many facets of our region.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -198,15 +198,15 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Peace, like an oasis in the heart of the desert, is a beacon of hope. Let us hope that our history of conflict can give way to more peaceful times.",
-		"tradeRequest": "The desert winds carry our words of trade. Accept this proposal for a partnership that can enrich our arid lands.",
+		"afterPeace": "Peace is an oasis in the desert of war. May our differences be a springboard for more harmonious relations in the future.",
+		"tradeRequest": "Our trade routes follow the paths of history. Accept this proposal for a trade alliance that can enrich our cultures.",
 
-		"outerColor": [120,165,83],
-		"innerColor": [193,154,107],
-		"uniqueName": "Transvaal routes",
-		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
-		"cities": ["Pretoria","Johannesburg","Bloemfontein","Pietersburg","Krugersdorp","Vereeniging","Witbank","Boksburg","Benoni",
-			"Germiston","Springs","Randburg","Vanderbijlpark","Roodepoort","Centurion","Kempton Park","Potchefstroom","Brits","Alberton",
-			"Midrand","Mamelodi","Klerksdorp","Secunda","Rustenburg","Nelspruit"]
+		"outerColor": [46,117,182],
+		"innerColor": [29,115,36],
+		"uniqueName": "Exotic plantations",
+		"uniques": ["[+1 Gold, +2 Food] from every [Plantation]"],
+		"cities": ["Pietermaritzburg","Durban","Newcastle","Ladysmith","Richards Bay","Port Shepstone","Ballito","Umhlanga","Amanzimtoti",
+			"Margate","Dundee","Estcourt","Vryheid","Stanger","Kokstad","Empangeni","Eshowe","Scottburgh","Howick",
+			"Mooi River","Greytown","Bergville","Matatiele"]
 	},
 ]
