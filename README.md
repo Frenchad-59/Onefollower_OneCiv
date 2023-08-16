@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Frenchad Mod
 
 An example mod for Unciv, that adds one new Civilization.
 
