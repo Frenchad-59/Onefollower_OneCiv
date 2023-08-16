@@ -169,7 +169,7 @@
 		"outerColor": [120,165,83],
 		"innerColor": [193,154,107],
 		"uniqueName": "Transvaal routes",
-		"uniques": ["[+1 Production, +1 Gold] [in all cities connected to capital]"],
+		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
 		"cities": ["Pretoria","Johannesburg","Bloemfontein","Pietersburg","Krugersdorp","Vereeniging","Witbank","Boksburg","Benoni",
 			"Germiston","Springs","Randburg","Vanderbijlpark","Roodepoort","Centurion","Kempton Park","Potchefstroom","Brits","Alberton",
 			"Midrand","Mamelodi","Klerksdorp","Secunda","Rustenburg","Nelspruit"]
