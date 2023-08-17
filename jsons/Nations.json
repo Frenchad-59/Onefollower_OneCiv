@@ -238,8 +238,8 @@
 
 		"outerColor": [255,165,0],
 		"innerColor": [139,69,19],
-		"uniqueName": "Transvaal routes",
-		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
+		"uniqueName": "Karoo routes",
+		"uniques": ["[[+20]% Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
 		"cities": ["Bloemfontein","Kimberley","Welkom","Odendaalsrus","Virginia","Kroonstad","Kroonstad","Sasolburg","Phuthaditjhaba",
 			"Ficksburg","Bethlehem","Reitz","Senekal","Hennenman","Heilbron","Viljoenskroon","Koffiefontein","Wesselsbron","Theunissen",
 			"Ventersburg","Winburg","Prieska","Hartswater","Christiana","Warrenton"]
