@@ -100,7 +100,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [00,00,00],
 		"uniqueName": "Marine Spirit",
-		"uniques": ["+2 Food from every [Coast]","+2 culture [in all cities] Must be next to [Coast]"],
+		"uniques": ["+4 Food from every [Coast], [Ocean]","+2 culture [in all cities] Must be next to [Coast]"],
 		"cities": ["Nantes","Rennes","Brest","Vannes","Quimper","Saint-Malo","Lorient","Rennes ","Lannion",
 			"Morlaix","Pontivy","Auray","Redon","Concarneau","Dinan","Saint-Brieuc","Loudéac","Lannion","Vitré",
 			"Fougères ","Guingamp","Douarnenez","Ploërmel","Lamballe","Châteaubriant","Quimperlé","Saint-Pol-de-Léon","Carhaix-Plouguer","Saint-Nazaire"]
