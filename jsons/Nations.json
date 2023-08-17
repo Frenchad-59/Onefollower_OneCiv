@@ -65,7 +65,7 @@
 		"outerColor": [230,184,34],
 		"innerColor": [24,41,69],
 		"uniqueName": "Flemish Trade",
-		"uniques": ["[+2 Production, +2 Gold] [in all cities connected to capital]"],
+		"uniques": ["[+2 Production, +1 Gold] [in all cities connected to capital]"],
 		"cities": ["Bruges","Gand","Anvers","Louvain","Malines","Courtrai","Ypres","Lille ","Tournai",
 			"Ostende","Alost","Bruxelles","Mons","Dunkerque","Douai","Saint-Omer","Audenarde","Roulers","Courtrai",
 			"Bergues ","Lys-lez-Lannoy","Orchies","Armentières","Béthune","Valenciennes","Audruicq","Saint-Winoc","Cassel","Thourout"]
