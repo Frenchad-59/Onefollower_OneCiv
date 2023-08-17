@@ -182,7 +182,7 @@
       		"replaces": "Spearman",
       		"requiredResource": "Copper",
       		"uniqueTo": "Sparta",
-      		"promotions": ["Phalanx"],
+      		"promotions": ["Formation II"],
       		"uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"],
       	},
 ]
