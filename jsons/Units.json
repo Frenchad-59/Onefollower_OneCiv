@@ -156,4 +156,33 @@
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	}
+	{
+       		"name": "Krypteia",
+      		"unitType": "Sword",
+      		"requiredTech": "Iron Working",
+      		"movement": 2,
+      		"strength": 15,
+      		"cost": 80,
+      		"obsoleteTech": "Gunpowder",
+      		"upgradesTo": "Musketman",
+      		"replaces": "Swordsman",
+      		"uniqueTo": "Sparta",
+      		"uniques": ["Never appears as a Barbarian unit", "Only available <after adopting [Honor]>", "[+15]% Strength <when attacking>", "[-13]% Strength <when defending>"],
+      		"requiredResource": "Iron",
+      	},
+	{
+       		"name": "Spartan Phalanx",
+      		"unitType": "Sword",
+      		"requiredTech": "Bronze Working",
+      		"movement": 2,
+      		"strength": 12,
+      		"cost": 80,
+      		"obsoleteTech": "Civil Service",
+      		"upgradesTo": "Pikeman",
+      		"replaces": "Spearman",
+      		"requiredResource": "Bronze",
+      		"uniqueTo": "Sparta",
+      		"promotions": ["Phalanx"],
+      		"uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"],
+      	},
 ]
