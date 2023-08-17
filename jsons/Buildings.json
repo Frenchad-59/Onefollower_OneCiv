@@ -43,4 +43,15 @@
 		"uniques": ["Must be next to [Coast]"],
 		"requiredTech": "Engineering"
 	},
+	{
+		"name": "Orange Granary",
+		"food": 3,
+		"Happiness" : 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+2 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
 ]
