@@ -167,7 +167,7 @@
 		"tradeRequest": "The desert winds carry our words of trade. Accept this proposal for a partnership that can enrich our arid lands.",
 
 		"outerColor": [193,154,107],
-		"innerColor": [120,165,83],
+		"innerColor": [0,102,0],
 		"uniqueName": "Transvaal routes",
 		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
 		"cities": ["Pretoria","Johannesburg","Bloemfontein","Pietersburg","Krugersdorp","Vereeniging","Witbank","Boksburg","Benoni",
@@ -201,8 +201,8 @@
 		"afterPeace": "Peace is an oasis in the desert of war. May our differences be a springboard for more harmonious relations in the future.",
 		"tradeRequest": "Our trade routes follow the paths of history. Accept this proposal for a trade alliance that can enrich our cultures.",
 
-		"outerColor": [29,115,36],
-		"innerColor": [46,117,182],
+		"outerColor": [255,200,0],
+		"innerColor": [0,84,159],
 		"uniqueName": "Exotic plantations",
 		"uniques": ["[+1 Gold, +2 Food] from every [Plantation]"],
 		"cities": ["Pietermaritzburg","Durban","Newcastle","Ladysmith","Richards Bay","Port Shepstone","Ballito","Umhlanga","Amanzimtoti",
