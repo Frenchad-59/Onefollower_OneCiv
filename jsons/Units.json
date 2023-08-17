@@ -141,4 +141,19 @@
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Karoo Riders",
+		"unitType": "Mounted",
+		"uniqueTo": "Natalia Republic",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 30,
+		"cost": 180,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
 ]
