@@ -106,7 +106,7 @@
 	{
 		"name": "Orangist Voortrekker",
 		"unitType": "Civilian",
-		"uniqueTo": "Natalia Republic",
+		"uniqueTo": "Orange Republic",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[-20]% tile improvement construction time"],
 		"cost": 70
