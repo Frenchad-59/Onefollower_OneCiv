@@ -144,7 +144,7 @@
 	{
 		"name": "Karoo Riders",
 		"unitType": "Mounted",
-		"uniqueTo": "Natalia Republic",
+		"uniqueTo": "Orange Republic",
 		"replaces": "Cavalry",
 		"movement": 4,
 		"strength": 30,
