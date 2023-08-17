@@ -244,4 +244,34 @@
 			"Ficksburg","Bethlehem","Reitz","Senekal","Hennenman","Heilbron","Viljoenskroon","Koffiefontein","Wesselsbron","Theunissen",
 			"Ventersburg","Winburg","Prieska","Hartswater","Christiana","Warrenton"]
 	},
+		{ 
+      		"name": "Sparta",
+      		"leaderName": "Gorgo",
+      		"adjective": ["Spartans"],
+      		"startBias": ["Coast"],
+     		"preferredVictoryType": "Domination",   
+
+      		"startIntroPart1": "Lead Sparta to greatness and glory as you spread your empire with your great Hoplites And Krypteias.",
+      		"startIntroPart2": "Have no worries,as Ares shall support your empire and destroy your foes and enemies as your empire prospers and flourishes.",
+
+      		"declaringWar": "Ares shall help us in battle! Prepare yourselves!",
+      		"attacked": "You think you can beat us glorious Spartans? We have the support of Ares,The God of War!.",
+      		"defeated": "Ares has abandoned us. Sparta is defeated....",
+      		"introduction": "Welcome to Sparta,Home of Warmongerers and Honorable Hoplites. Want to come to a nearby city to duel?",
+     
+      		"neutralHello": "Are you prepared for suprise invasions?",
+      		"hateHello": "You will be destroyed.",
+      
+      		"tradeRequest": "Would you like to trade?",
+      
+       		"outerColor": [242,66,17],		
+       		"innerColor": [242, 205, 17], 
+       		"favoredReligion": "Paganism",
+       		"uniqueName": "Queen of Sparta", 
+       		"uniques": ["[Great General] is earned [10]% faster", "+[1] [Production] from [Barracks] [in all cities] <when at war>", "+[3] [Culture] from [Barracks] [in all cities]", "+[1] [Production],+[1] [Culture] [in all cities] <when at war>"],
+       
+       "cities": ["Sparta","Argos","Olympia","Megalopolis","Phigalia","Epidaurus","Stymphalos","Tegea","Thuria","Gorgos","Pharae","Aulon","Tyros"],
+       
+
+},
 ]
