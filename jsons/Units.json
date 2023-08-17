@@ -155,5 +155,5 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-	},
+	}
 ]
