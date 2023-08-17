@@ -169,7 +169,7 @@
 		"outerColor": [193,154,107],
 		"innerColor": [0,102,0],
 		"uniqueName": "Transvaal routes",
-		"uniques": ["[+1 Production, +3 Food] [in all cities connected to capital]","[+4 Gold] from every [Gold Ore]"],
+		"uniques": ["[+1 Production, +2 Food] [in all cities connected to capital]","[+4 Gold] from every [Gold Ore]"],
 		"cities": ["Pretoria","Johannesburg","Bloemfontein","Pietersburg","Krugersdorp","Vereeniging","Witbank","Boksburg","Benoni",
 			"Germiston","Springs","Randburg","Vanderbijlpark","Roodepoort","Centurion","Kempton Park","Potchefstroom","Brits","Alberton",
 			"Midrand","Mamelodi","Klerksdorp","Secunda","Rustenburg","Nelspruit"]
@@ -239,7 +239,7 @@
 		"outerColor": [255,165,0],
 		"innerColor": [139,69,19],
 		"uniqueName": "Karoo routes",
-		"uniques": ["[+3 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
+		"uniques": ["[+2 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
 		"cities": ["Bloemfontein","Kimberley","Welkom","Odendaalsrus","Virginia","Kroonstad","Kroonstad","Sasolburg","Phuthaditjhaba",
 			"Ficksburg","Bethlehem","Reitz","Senekal","Hennenman","Heilbron","Viljoenskroon","Koffiefontein","Wesselsbron","Theunissen",
 			"Ventersburg","Winburg","Prieska","Hartswater","Christiana","Warrenton"]
