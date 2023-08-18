@@ -302,7 +302,7 @@
 		"innerColor": [205, 200, 25],
 		"favoredReligion": "Hellenism",
 		"uniqueName": "Kick the Helot",
-		"uniques": ["Cannot build [Settler] units","Free [Melee] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
+		"uniques": ["Cannot build [Settler] units","Free [Sword] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Sword] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
     	},
@@ -338,7 +338,7 @@
 		"innerColor": [212, 175, 55],
 		"favoredReligion": "Hellenism"
 		"uniqueName": "Massilian Trading Network",
-		"uniques": ["Cannot build [Settler] units", "[+1 Technology, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation"],
+		"uniques": ["Cannot build [Settler] units", "[+1 Science, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Culture] from all [Gold] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Mercantilism]>", "Start with [Trade Unions] adopted"],
 		"cities": ["Massilia, Tolosa"]
 	},
 ]
