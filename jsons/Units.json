@@ -214,4 +214,19 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Massilian Hoplite",
+		"unitType": "Sword",
+		"uniqueTo": "Massilia",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 18,
+		"cost": 80,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Pikeman",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["[-5]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>", "Never appears as a Barbarian unit"],
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	}
 ]
