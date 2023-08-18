@@ -277,7 +277,7 @@
 	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
 			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
-    },
+   	},
 		{
 		"name": "Sparta",
 		"leaderName": "Leonidas",
@@ -305,5 +305,40 @@
 		"uniques": ["Cannot build [Settler] units","Free [Melee] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
-    },
+    	},
+
+		{
+		"name": "Massilia",
+		"leaderName": "Pytheas",
+		"adjective": ["Massilian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1": "From the Mediterranean, Massilia rises as a city of trade and culture. Our ships have sailed to distant horizons, bringing wealth and contacts.",
+		"startIntroPart2": "Massilia is a crossroads of cultures and encounters. From our coasts, we have exchanged goods and ideas with the entire world.",
+	
+		"declaringWar": "The walls of Massilia protect our independence. If peace is threatened, we will respond with determination.",
+		"attacked": "Massilian ships carry more than goods. We are ready to defend our freedom on land and sea.",
+		"defeated": "Even in the shadow of defeat, the lighthouse of Massilia will continue to shine, guiding our future.",
+		"introduction": "Greetings, travelers. Massilia, the cosmopolitan harbor, welcomes curious minds and commercial opportunities.",
+	
+		"neutralHello": "How are you?",
+		"neutralLetsHearIt": ["Go ahead.", "What do you say?", "You may start."],
+		"neutralNo": ["We categorically refuse.", "No!", "I decline."],
+		"neutralYes": ["Very well.", "Of course, yes.", "That's quite good."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!", "What do you say?", "Go ahead."],
+		"hateNo": ["That's not possible!", "We disagree with that!", "Please excuse me?"],
+		"hateYes": ["Alright.", "That's sufficient.", "Fine..."],
+	
+		"afterPeace": "Peace, like the tranquil waves of the Mediterranean, can unite us. May we find common ground.",
+		"tradeRequest": "The maritime trade routes of Massilia are open for commerce. Accept our proposal for a future of shared prosperity.",
+
+		"outerColor": [0, 90, 156],
+		"innerColor": [212, 175, 55],
+		"favoredReligion": "Hellenism"
+		"uniqueName": "Massilian Trading Network",
+		"uniques": ["Cannot build [Settler] units", "[+1 Tech, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation"],
+		"cities": ["Massilia, Tolosa"]
+	},
 ]
