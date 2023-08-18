@@ -338,7 +338,7 @@
 		"innerColor": [212, 175, 55],
 		"favoredReligion": "Hellenism"
 		"uniqueName": "Massilian Trading Network",
-		"uniques": ["Cannot build [Settler] units", "[+1 Tech, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation"],
+		"uniques": ["Cannot build [Settler] units", "[+1 Technology, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation"],
 		"cities": ["Massilia, Tolosa"]
 	},
 ]
