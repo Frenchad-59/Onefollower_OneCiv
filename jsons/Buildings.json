@@ -8,7 +8,7 @@
 		"hurryCostModifier": 35,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+2 Food] from [Wheat] tiles [in this city]",
 			"[+3 Food] from [Wine] tiles [in this city]"]
 		"requiredTech": "Pottery"
 	},
@@ -37,7 +37,7 @@
 		"name": "Tide Mill",
 		"uniqueTo": "Brittany",
 		"maintenance": 4,
-		"food": 3,
+		"food": 4,
 		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be next to [Coast]"],
