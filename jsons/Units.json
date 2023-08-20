@@ -241,7 +241,7 @@
 	{
 		"name": "Confederate Sharpshooters",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Transvaal Republic",
+		"uniqueTo": "Confederate State of America",
 		"replaces": "Rifleman",
 		"movement": 3,
 		"strength": 40,
