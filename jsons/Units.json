@@ -63,7 +63,7 @@
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Woodsman", "Quick Study", "Ambush I"]
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Invisible to non-adjacent units],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Invisible to non-adjacent units"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
