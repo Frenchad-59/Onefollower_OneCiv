@@ -341,4 +341,39 @@
 		"uniques": ["Cannot build [Settler] units", "[+1 Science, +1 Culture, +2 Gold] [in all cities connected to capital]", "[+1 Production, +1 Culture] from all [Lighthouse] buildings", "[-40]% City-State Influence degradation", "Commercial City-States grant units [2] times as fast when you are at war with a common nation", "[+1 Culture] from all [Gold] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Mercantilism]>", "Start with [Trade Unions] adopted"],
 		"cities": ["Massilia", "Tolosa"]
 	},
+		{
+	    	"name": "Confederate State of America",
+	    	"leaderName": "Jefferson Davis",
+	    	"adjective": ["Confederate"],
+	    	"startBias": ["Grassland", "Hill"],
+	    	"preferredVictoryType": "Domination",
+	
+	    	"startIntroPart1": "From the southern states of America, the Confederates rose to defend their vision of a nation founded on principles of states' rights and self-determination.",
+	    	"startIntroPart2": "The Confederate states are known for their agricultural prowess and fierce determination. In the complex world of Unciv, they aim to secure their sovereignty and way of life.",
+	
+	    	"declaringWar": "With a heavy heart, we must take up arms to protect our cherished principles and our homeland.",
+	    	"attacked": "We regret that diplomacy has failed us, but we will defend our land and our rights with unwavering resolve.",
+	    	"defeated": "The Confederate spirit may be wounded, but it will never be extinguished. We will rise again, for our cause is just.",
+	    	"introduction": "Greetings, fellow nations. The Confederate states extend a hand in hope of finding common ground and peaceful coexistence.",
+	
+	    	"neutralHello": "How are you doing?",
+	    	"neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+	    	"neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
+	    	"neutralYes": ["Very good.", "Of course, yes.", "That is very good."],
+	    	"hateHello": "What do you want now?",
+	    	"hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+	    	"hateNo": ["That is not possible!", "We are not agreeing to that!", "I beg your pardon?"],
+	    	"hateYes": ["That is fine.", "That is good enough.", "Very well..."],
+	
+	    	"afterPeace": "Peace is a precious commodity, and we hope that our conflicts can be resolved to pave the way for a more peaceful future.",
+	    	"tradeRequest": "Let us engage in trade to benefit both our nations.",
+	
+	    	"outerColor": [208, 38, 38],
+	    	"innerColor": [22, 22, 22],
+	    	"favoredReligion": "Christianity",
+	    	"uniqueName": "Southern Heritage",
+	    	"uniques": ["[+1 Production, +1 Gold] from every [Plantation]", "[+1 Culture, +1 Gold] from every [Cotton] resource"],
+	    	"cities": ["Richmond", "Atlanta", "New Orleans", "Charleston", "Nashville", "Savannah", "Mobile", "Jackson", "Montgomery", "Baton Rouge", "Raleigh", "Columbia", "Tallahassee", "Little Rock", "Jacksonville", "Shreveport"]
+	}
+	
 ]
