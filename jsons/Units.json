@@ -250,7 +250,6 @@
 		"obsoleteTech": "Replaceable Parts",
 		"promotions": ["Drill I"]
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["[+25]% Combat Strength when defending", "May attack twice per turn", "No defensive terrain bonus"],
 		"attackSound": "shot"
 	},
 	{
