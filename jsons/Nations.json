@@ -208,7 +208,7 @@
 		"innerColor": [0,84,159],
 		"favoredReligion": "Christianity"
 		"uniqueName": "Exotic plantations",
-		"uniques": ["[+2 Gold, +2 Food] from every [Plantation]"],
+		"uniques": ["[+2 Gold, +2 Food] from every [Plantation]", "[+1 Culture] from every [Banana]"],
 		"cities": ["Pietermaritzburg","Durban","Newcastle","Ladysmith","Richards Bay","Port Shepstone","Ballito","Umhlanga","Amanzimtoti",
 			"Margate","Dundee","Estcourt","Vryheid","Stanger","Kokstad","Empangeni","Eshowe","Scottburgh","Howick",
 			"Mooi River","Greytown","Bergville","Matatiele"]
@@ -244,7 +244,7 @@
 		"innerColor": [139,69,19],
 		"favoredReligion": "Christianity"
 		"uniqueName": "Karoo routes",
-		"uniques": ["[+1 Food] [in all cities connected to capital]","[+2 Gold] from every [Gold Ore]"],
+		"uniques": ["[+1 Food, +2 Gold] [in all cities connected to capital]","[+2 Gold, +1 Production] from every [Gold Ore]"],
 		"cities": ["Bloemfontein","Kimberley","Welkom","Odendaalsrus","Virginia","Kroonstad","Kroonstad","Sasolburg","Phuthaditjhaba",
 			"Ficksburg","Bethlehem","Reitz","Senekal","Hennenman","Heilbron","Viljoenskroon","Koffiefontein","Wesselsbron","Theunissen",
 			"Ventersburg","Winburg","Prieska","Hartswater","Christiana","Warrenton"]
