@@ -63,7 +63,7 @@
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Woodsman", "Quick Study", "Ambush I"]
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Invisible to non-adjacent units"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Invisible to non-adjacent units],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -266,5 +266,20 @@
 		"obsoleteTech": "Rifling",
 		"promotions": ["Landing Party", "Amphibious"]
 		"attackSound": "shot"
+	},
+	{
+		"name": "Natchez Militia",
+		"unitType": "Archery",
+		"uniqueTo": "Louisiana",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"uniques" : ["Invisible to non-adjacent units"],
+		"attackSound": "arrow"
 	},
 ]
