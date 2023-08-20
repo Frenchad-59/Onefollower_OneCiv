@@ -376,10 +376,10 @@
 	    	"cities": ["Richmond", "Atlanta", "New Orleans", "Charleston", "Nashville", "Savannah", "Mobile", "Jackson", "Montgomery", "Baton Rouge", "Raleigh", "Columbia", "Tallahassee", "Little Rock", "Jacksonville", "Shreveport", "Lexington", "Chattanooga", "Macon", "Wilmington", "Pensacola", "Knoxville", "Fayetteville", "Augusta", "Huntsville", "Tuscaloosa", "Greenville", "Meridian", "Milledgeville", "Athens", "Gadsden", "Selma", "Gainesville", "Hattiesburg", "Auburn", "Oxford", "Macon", "Valdosta", "Anniston", "Columbus", "Dothan", "Decatur", "Brunswick", "Albany", "Gulfport", "Pascagoula", "Biloxi", "Spartanburg", "Gulfport", "Pascagoula", "Biloxi", "Spartanburg", "Albany", "Lafayette", "Houma", "Opelousas", "Ruston", "Hammond", "Slidell", "Gretna", "Bogalusa", "Crowley", "Minden", "Bastrop", "West Monroe", "Ponchatoula", "Leesville", "Jennings", "Eunice", "Zachary", "Donaldsonville", "Jeanerette", "Rayne", "Franklin", "Plaquemine", "Mansfield", "Tallulah", "Vidalia", "Broussard", "Abbeville", "Carencro", "Scott", "Westwego", "St. Martinville", "Patterson", "Marksville", "DeRidder", "Springhill", "Ville Platte", "Walker"]
 	},
 		{
-	    	"name": "Louisiane",
+	    	"name": "Louisiana",
 	    	"leaderName": "Jean-Baptiste Le Moyne de Bienville",
 	    	"adjective": ["Louisianan"],
-	    	"startBias": ["River"],
+	    	"startBias": ["River", "Marsh"],
 	    	"preferredVictoryType": "Science",
 	
 	    	"startIntroPart1": "From the heart of the Mississippi Delta, the people of Louisiana carved out a unique and vibrant culture in the New World.",
@@ -406,7 +406,7 @@
 	    	"innerColor": [255, 255, 255],
 	    	"favoredReligion": "Catholicism",
 	    	"uniqueName": "Creole Culture",
-	    	"uniques": ["[+1 Culture, +1 Food] from every [Bayou] tile", "[+1 Science from every [Library] and [University]"],
+	    	"uniques": ["[+1 Culture, +1 Food] from every [Marsh] tile", "[+1 Science from every [Library] and [University]"],
 	    	"cities": ["New Orleans", "Baton Rouge", "Lafayette", "Shreveport", "Alexandria", "Lake Charles", "Monroe", "Houma", "Thibodaux", "Natchitoches", "Morgan City", "Opelousas", "Sulphur", "Ruston", "Hammond", "Kenner", "Slidell", "Gretna", "Bogalusa", "Crowley", "Minden", "Bastrop", "West Monroe", "Ponchatoula", "Leesville", "Jennings", "Eunice", "Zachary", "Donaldsonville", "Jeanerette", "Rayne", "Franklin", "Plaquemine", "Mansfield", "Tallulah", "Vidalia", "Broussard", "Abbeville", "Carencro", "Scott", "Westwego", "St. Martinville", "Patterson", "Marksville", "DeRidder", "Springhill", "Ville Platte", "Walker"]
 	},
 	
