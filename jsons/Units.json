@@ -253,4 +253,18 @@
 		"uniques": ["[+25]% Combat Strength when defending", "May attack twice per turn", "No defensive terrain bonus"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Marine Fusiliers",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Louisiana",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 30,
+		"cost": 185,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["Landing Party", "Amphibious"]
+		"attackSound": "shot"
+	},
 ]
