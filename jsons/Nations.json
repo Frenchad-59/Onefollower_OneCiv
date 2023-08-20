@@ -373,7 +373,9 @@
 	    	"favoredReligion": "Christianity",
 	    	"uniqueName": "Southern Heritage",
 	    	"uniques": ["[+1 Production, +1 Gold] from every [Plantation]", "[+1 Culture, +1 Gold] from every [Cotton] resource"],
-	    	"cities": ["Richmond", "Atlanta", "New Orleans", "Charleston", "Nashville", "Savannah", "Mobile", "Jackson", "Montgomery", "Baton Rouge", "Raleigh", "Columbia", "Tallahassee", "Little Rock", "Jacksonville", "Shreveport", "Lexington", "Chattanooga", "Macon", "Wilmington", "Pensacola", "Knoxville", "Fayetteville", "Augusta", "Huntsville", "Tuscaloosa", "Greenville", "Meridian", "Milledgeville", "Athens", "Gadsden", "Selma", "Gainesville", "Hattiesburg", "Auburn", "Oxford", "Macon", "Valdosta", "Anniston", "Columbus", "Dothan", "Decatur", "Brunswick", "Albany", "Gulfport", "Pascagoula", "Biloxi", "Spartanburg", "Gulfport", "Pascagoula", "Biloxi", "Spartanburg", "Albany", "Lafayette", "Houma", "Opelousas", "Ruston", "Hammond", "Slidell", "Gretna", "Bogalusa", "Crowley", "Minden", "Bastrop", "West Monroe", "Ponchatoula", "Leesville", "Jennings", "Eunice", "Zachary", "Donaldsonville", "Jeanerette", "Rayne", "Franklin", "Plaquemine", "Mansfield", "Tallulah", "Vidalia", "Broussard", "Abbeville", "Carencro", "Scott", "Westwego", "St. Martinville", "Patterson", "Marksville", "DeRidder", "Springhill", "Ville Platte", "Walker"]
+	    	"cities": ["Richmond", "Atlanta", "New Orleans", "Charleston", "Nashville", "Savannah", "Mobile", "Jackson", "Montgomery", "Baton Rouge", 
+			"Raleigh", "Columbia", "Tallahassee", "Little Rock", "Jacksonville", "Shreveport", "Lexington", "Chattanooga", "Macon", "Wilmington", "Pensacola", 
+			"Knoxville", "Fayetteville", "Augusta", "Huntsville", "Tuscaloosa", "Greenville", "Meridian", "Milledgeville", "Athens", "Gadsden", "Selma"]
 	},
 		{
 	    	"name": "Louisiana",
