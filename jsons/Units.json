@@ -228,5 +228,13 @@
 		"uniques": ["[-5]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>", "Never appears as a Barbarian unit"],
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Slave",
+		"unitType": "Civilian",
+		"uniqueTo": "Confederate State of America",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+20]% tile improvement construction time"],
+		"cost": 0
+	},
 ]
