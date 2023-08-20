@@ -238,4 +238,19 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+20]% tile improvement construction time"],
 		"cost": 0
 	},
+	{
+		"name": "Confederate Sharpshooters",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Transvaal Republic",
+		"replaces": "Rifleman",
+		"movement": 3,
+		"strength": 40,
+		"cost": 250,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["Drill I"]
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+25]% Combat Strength when defending", "May attack twice per turn", "No defensive terrain bonus"],
+		"attackSound": "shot"
+	},
 ]
