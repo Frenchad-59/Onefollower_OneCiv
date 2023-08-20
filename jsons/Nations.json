@@ -406,7 +406,7 @@
 	
 	    	"outerColor": [0, 128, 0],
 	    	"innerColor": [255, 255, 255],
-	    	"favoredReligion": "Catholicism",
+	    	"favoredReligion": "Christianity",
 	    	"uniqueName": "Creole Culture",
 	    	"uniques": ["[+1 Culture, +1 Food] from every [Marsh]", "[+1 Science] from every [Library]", "[+1 Science] from every [University]"],
 	    	"cities": ["New Orleans", "Baton Rouge", "Lafayette", "Shreveport", "Alexandria", "Lake Charles", "Monroe", "Houma", "Thibodaux", "Natchitoches", "Morgan City", "Opelousas", "Sulphur", "Ruston", "Hammond", "Kenner", "Slidell", "Gretna", "Bogalusa", "Crowley", "Minden", "Bastrop", "West Monroe", "Ponchatoula", "Leesville", "Jennings", "Eunice", "Zachary", "Donaldsonville", "Jeanerette", "Rayne", "Franklin", "Plaquemine", "Mansfield", "Tallulah", "Vidalia", "Broussard", "Abbeville", "Carencro", "Scott", "Westwego", "St. Martinville", "Patterson", "Marksville", "DeRidder", "Springhill", "Ville Platte", "Walker"]
