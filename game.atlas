@@ -1,0 +1,293 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Breeders
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 1400, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sacred Menhir
+  rotate: false
+  xy: 652, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tide Mill
+  rotate: false
+  xy: 868, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wine Cellar
+  rotate: false
+  xy: 4, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Aliens
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Athens
+  rotate: false
+  xy: 212, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Brittany
+  rotate: false
+  xy: 428, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Burgundy
+  rotate: false
+  xy: 536, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Confederate State of America
+  rotate: false
+  xy: 752, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Flanders
+  rotate: false
+  xy: 968, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Louisiana
+  rotate: false
+  xy: 1832, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Massilia
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Natalia Republic
+  rotate: false
+  xy: 220, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nervii
+  rotate: false
+  xy: 436, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orange Republic
+  rotate: false
+  xy: 436, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sparta
+  rotate: false
+  xy: 760, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Transvaal Republic
+  rotate: false
+  xy: 976, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Hellenism
+  rotate: false
+  xy: 1292, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Paganism
+  rotate: false
+  xy: 544, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Breton Privateer
+  rotate: false
+  xy: 320, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Confederate Sharpshooters
+  rotate: false
+  xy: 644, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Epibatai
+  rotate: false
+  xy: 860, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flemish Merchant
+  rotate: false
+  xy: 1076, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flemish Militia
+  rotate: false
+  xy: 1184, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Karoo Riders
+  rotate: false
+  xy: 1508, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mounted Rifles
+  rotate: false
+  xy: 1508, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knight of the Golden Fleece
+  rotate: false
+  xy: 1616, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Krypteia
+  rotate: false
+  xy: 1724, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Marine Fusiliers
+  rotate: false
+  xy: 1940, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mist Forest Warrior
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Natalian Voortrekker
+  rotate: false
+  xy: 220, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orangist Voortrekker
+  rotate: false
+  xy: 220, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Transvaalian Voortrekker
+  rotate: false
+  xy: 220, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Natchez Militia
+  rotate: false
+  xy: 328, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nervian Equites
+  rotate: false
+  xy: 328, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 544, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rammed Trireme
+  rotate: false
+  xy: 652, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Slave
+  rotate: false
+  xy: 760, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spartan Phalanx
+  rotate: false
+  xy: 868, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Transvaal Commandos
+  rotate: false
+  xy: 976, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
