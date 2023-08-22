@@ -248,7 +248,7 @@
 		"uniqueTo": "Confederate State of America",
 		"replaces": "Worker",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+100]% tile improvement construction time"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+200]% tile improvement construction time"],
 		"cost": 10
 	},
 	{
