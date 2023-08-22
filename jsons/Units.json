@@ -53,6 +53,19 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Chouans",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Brittany",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Mist Forest Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Nervii",
