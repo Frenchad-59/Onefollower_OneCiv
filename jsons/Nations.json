@@ -208,7 +208,7 @@
 		"innerColor": [0,84,159],
 		"favoredReligion": "Christianity"
 		"uniqueName": "Exotic plantations",
-		"uniques": ["[+1 Food, +1 Production] from every [Pasture]", "[+2 Gold, +2 Food] from every [Plantation]", "[+1 Culture] from every [Banana]", "[+1 Production] from every [Coal]"],
+		"uniques": ["[+1 Food, +1 Production] from every [Pasture]", "[+2 Gold, +2 Food] from every [Plantation]", "[+1 Culture] from every [Banana] tiles", "[+1 Production] from every [Coal]"],
 		"cities": ["Pietermaritzburg","Durban","Newcastle","Ladysmith","Richards Bay","Port Shepstone","Ballito","Umhlanga","Amanzimtoti",
 			"Margate","Dundee","Estcourt","Vryheid","Stanger","Kokstad","Empangeni","Eshowe","Scottburgh","Howick",
 			"Mooi River","Greytown","Bergville","Matatiele"]
