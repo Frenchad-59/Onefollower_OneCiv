@@ -45,6 +45,8 @@
 	},
 	{
 		"name": "Orange Granary",
+		"uniqueTo": "Orange Republic",
+		"replaces": "Granary"
 		"food": 3,
 		"Happiness" : 1,
 		"maintenance": 1,
