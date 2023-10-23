@@ -1,18 +1,5 @@
 [
 	{
-		"name": "Wine Cellar",
-		"replaces": "Granary",
-		"uniqueTo": "Burgundy",
-		"food": 3,
-		"maintenance": 1,
-		"hurryCostModifier": 35,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+2 Food] from [Wheat] tiles [in this city]",
-			"[+3 Food] from [Wine] tiles [in this city]"]
-		"requiredTech": "Pottery"
-	},
-	{
 		"name": "Flemish Bourse",
 		"replaces": "Bank",
 		"uniqueTo": "Flanders",
@@ -22,38 +9,5 @@
 		"percentStatBonus": {"gold": 35},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
-	},
-	{
-		"name": "Sacred Menhir",
-		"replaces": "Shrine",
-		"uniqueTo": "Brittany",
-		"faith": 2,
-		"cost": 30,
-		"maintenance": 0,
-		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
-	},
-	{
-		"name": "Tide Mill",
-		"uniqueTo": "Brittany",
-		"maintenance": 4,
-		"food": 4,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must be next to [Coast]"],
-		"requiredTech": "Engineering"
-	},
-	{
-		"name": "Orange Granary",
-		"uniqueTo": "Orange Republic",
-		"replaces": "Granary"
-		"food": 3,
-		"Happiness" : 1,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+2 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Pottery"
 	},
 ]
